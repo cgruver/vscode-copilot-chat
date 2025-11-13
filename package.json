@@ -23,7 +23,7 @@
 	"icon": "assets/copilot.png",
 	"pricing": "Trial",
 	"engines": {
-		"vscode": "^1.106.0-20251103",
+		"vscode": "^1.103.0",
 		"npm": ">=9.0.0",
 		"node": ">=22.14.0"
 	},
@@ -4451,7 +4451,7 @@
 		]
 	},
 	"extensionPack": [
-		"GitHub.copilot"
+		"GitHub.copilot-chat"
 	],
 	"prettier": {
 		"useTabs": true,
